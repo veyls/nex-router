@@ -15,4 +15,5 @@ Bu projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 1. **Dosyaları İndirin:**
    GitHub sayfasındaki yeşil **"Code"** butonuna basıp **"Download ZIP"** diyerek indirin veya terminalden klonlayın:
    ```bash
-   git clone [https://github.com/veyls/nex-router)
+
+git clone https://github.com/veyls/nex-router.git
