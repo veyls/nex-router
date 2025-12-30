@@ -1,0 +1,21 @@
+{
+    "name": "nex/router",
+    "description": "Hızlı ve Minimal PHP Router",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nex\\": "src/",
+            "App\\": "app/"
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Senin Adın",
+            "email": "email@adresin.com"
+        }
+    ],
+    "require": {}
+}
